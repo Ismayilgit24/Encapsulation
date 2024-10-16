@@ -1,0 +1,14 @@
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\CodeAcademy\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+D:\CodeAcademy\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+D:\CodeAcademy\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+D:\CodeAcademy\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+D:\CodeAcademy\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+D:\CodeAcademy\Encapsulation\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll

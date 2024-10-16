@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeAcademy\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|d:\\codeacademy\\encapsulation\\encapsulation\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|d:\\codeacademy\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|d:\\codeacademy\\encapsulation\\encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|d:\\codeacademy\\encapsulation\\encapsulation\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA424C2-13FD-431A-9076-3BBE69D53EB9}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteBook.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\NoteBook.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\NoteBook.cs",
+              "ToolTip": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\NoteBook.cs",
+              "RelativeToolTip": "Encapsulation\\NoteBook.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:09:51.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\Phone.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Phone.cs",
+              "ToolTip": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\Phone.cs*",
+              "RelativeToolTip": "Encapsulation\\Phone.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:50:02.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Product.cs",
+              "ToolTip": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeToolTip": "Encapsulation\\Product.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv3gAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:13:52.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "D:\\CodeAcademy\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:04:50.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
